@@ -14,6 +14,6 @@
     s.dependency 'FBSDKCoreKit'
     s.dependency 'FBSDKLoginKit'
     s.dependency 'Firebase/Core'
-    s.dependency 'firebase/compat/auth'
+    s.dependency 'Firebase/Auth'
     s.static_framework = true
   end
